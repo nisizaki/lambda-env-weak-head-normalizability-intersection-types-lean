@@ -1,0 +1,10 @@
+name = "LambdaEnvWH"
+version = "0.1.0"
+defaultTargets = ["LambdaEnvWH"]
+
+[[lean_lib]]
+name = "LambdaEnvWH"
+
+[leanOptions]
+autoImplicit = false
+relaxedAutoImplicit = false
